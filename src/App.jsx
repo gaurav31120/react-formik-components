@@ -1,7 +1,12 @@
 import "./App.css";
+import FormikContainer from "./components/FormikContainer";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <FormikContainer />
+    </>
+  );
 }
 
 export default App;
