@@ -2,3 +2,4 @@ Project: Login and Registration form validation and submission using formik and 
 
 1 Creating a react formik app 
 2 declaring initialValues, validatrionSchema, onSubmit
+3 Formik control component
