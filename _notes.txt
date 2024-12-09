@@ -1,0 +1,10 @@
+1 input component
+<label />  ----> name of the input
+<Field /> ----> Field
+<ErrorMessage /> ----> ErrorMessage
+
+props 
+control="input"
+label="email"
+name="email"
+type="email"
